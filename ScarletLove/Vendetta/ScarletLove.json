@@ -389,6 +389,9 @@
         "WHITE_500": "#ffede9",
         "YELLOW_300": "#d7992173"
     },
+    "background": {
+            "url": "https://cdn.donmai.us/original/60/12/__selena_punishing_gray_raven_drawn_by_zhou_huan_dgpe2833__6012a6c2af923c548c962484ada2107f.jpg"
+    }, 
     "plus": {
         "version": 0,
         "customOverlays": true,
