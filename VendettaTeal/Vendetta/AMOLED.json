@@ -17,12 +17,12 @@
             "#00201f"
         ],
         "BACKGROUND_MENTIONED": [
-            "#ffe4cc",
-            "#ffe4cc"
+            "#381a15",
+            "#381a15"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#ffe4cc",
-            "#ffe4cc"
+            "#381a15",
+            "#381a15"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#0038375a",
@@ -177,12 +177,12 @@
             "#9cf0f0"
         ],
         "HEADER_PRIMARY": [
-            "#affffe",
-            "#affffe"
+            "#e7978a",
+            "#e7978a"
         ],
         "HEADER_SECONDARY": [
-            "#489e9d",
-            "#489e9d"
+            "#ae6256",
+            "#ae6256"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#3bb8ba",
@@ -205,8 +205,8 @@
             "#00201f"
         ],
         "INFO_HELP_TEXT": [
-            "#affffe",
-            "#affffe"
+            "#ae6256",
+            "#ae6256"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#3bb8ba",
@@ -229,8 +229,8 @@
             "#000000"
         ],
         "INFO_WARNING_TEXT": [
-            "#affffe",
-            "#affffe"
+            "#ae6256",
+            "#ae6256"
         ],
         "INTERACTIVE_ACTIVE": [
             "#e7978a",
