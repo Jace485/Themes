@@ -17,12 +17,12 @@
             "#00201f"
         ],
         "BACKGROUND_MENTIONED": [
-            "#0038375a",
-            "#0038375a"
+            "#ffe4cc",
+            "#ffe4cc"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#0038375a",
-            "#0038375a"
+            "#ffe4cc",
+            "#ffe4cc"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#0038375a",
@@ -189,8 +189,8 @@
             "#9cf0f0"
         ],
         "INFO_DANGER_FOREGROUND": [
-            "#248282",
-            "#248282"
+            "#ffe4cc",
+            "#ffe4cc"
         ],
         "INFO_DANGER_TEXT": [
             "#fb4934",
@@ -233,20 +233,20 @@
             "#affffe"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#affffe",
-            "#affffe"
+            "#e7978a",
+            "#e7978a"
         ],
         "INTERACTIVE_HOVER": [
-            "#bac2de",
-            "#bac2de"
+            "#ae6256",
+            "#ae6256"
         ],
         "INTERACTIVE_MUTED": [
             "#324c4b",
             "#324c4b"
         ],
         "INTERACTIVE_NORMAL": [
-            "#9cf0f0",
-            "#9cf0f0"
+            "#ae6256",
+            "#ae6256"
         ],
         "LOGO_PRIMARY": [
             "#83a598",
@@ -317,16 +317,16 @@
             "#9d0006"
         ],
         "TEXT_LINK": [
-            "#b4befe",
-            "#7680C0"
+            "#e7978a",
+            "#e7978a"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#affffe",
-            "#affffe"
+            "#ae6256",
+            "#ae6256"
         ],
         "TEXT_MUTED": [
-            "#80d4d2",
-            "#80d4d2"
+            "#248282",
+            "#248282"
         ],
         "TEXT_NORMAL": [
             "#affffe",
