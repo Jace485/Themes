@@ -17,16 +17,16 @@
             "#00201f"
         ],
         "BACKGROUND_MENTIONED": [
-            "#0038375a",
-            "#0038375a"
+            "#e7978a",
+            "#e7978a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#0038375a",
-            "#0038375a"
+            "#ae6256",
+            "#ae6256"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#0038375a",
-            "#0038375a"
+            "#ae6256",
+            "#ae6256"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
