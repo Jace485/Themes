@@ -8,7 +8,7 @@
       }
     ],
     "semanticColors": {
-        "ACTIVITY_CARD_BACKGROUND": [
+       "ACTIVITY_CARD_BACKGROUND": [
             "#fb4934",
             "#9d0006"
         ],
@@ -17,16 +17,16 @@
             "#00201f"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e7978a",
-            "#e7978a"
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#ae6256",
-            "#ae6256"
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ae6256",
-            "#ae6256"
+            "#0038375a",
+            "#0038375a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
